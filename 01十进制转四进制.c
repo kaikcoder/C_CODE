@@ -1,5 +1,5 @@
-/* Ê®½øÖÆ×ª»»ÎªËÄ½øÖÆ */
-/* Ä£4³ı4 */
+/* åè¿›åˆ¶è½¬æ¢ä¸ºå››è¿›åˆ¶ */
+/* æ¨¡4é™¤4 */
 #include<stdio.h>
 #define N 4
 long conv(int a){
@@ -14,7 +14,7 @@ long conv(int a){
 int main(){
     long after;
     int before;
-    printf("ÊäÈëÒ»¸öÕûÊı£º");
+    printf("è¾“å…¥ä¸€ä¸ªæ•´æ•°ï¼š");
     scanf("%d",&before);
     after = conv(before);
     printf("before:%d after:%ld\n",before,after);
