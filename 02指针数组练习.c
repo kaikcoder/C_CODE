@@ -1,4 +1,4 @@
-/* Ö¸ÕëÊı×é */
+/* æŒ‡é’ˆæ•°ç»„ç»ƒä¹ é¢˜ */
 #include<stdio.h>
 #include<string.h>
 #define N 4
